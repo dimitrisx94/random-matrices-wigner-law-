@@ -1,8 +1,7 @@
 # random-matrices-toy model-wigner-law
-verify the wigner semicircle law of eigenvalue distribution of random matrices 
-
-matrix elements follow normal distribution,
-the eigenvalues of the matrices follow the wigner semicircle law
+this code verifies the wigner semicircle law
+[eigenvalue distribution
+of random matrices with matrix elements that follow normal distribution]
 
 i used code from COLAB
 
