@@ -1,4 +1,4 @@
-# random-matrices toy model-wigner-law
+# random-matrices-toy model-wigner-law
 verify the wigner semicircle law of eigenvalue distribution of random matrices 
 
 matrix elements follow normal distribution,
