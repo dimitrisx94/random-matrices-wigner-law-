@@ -11,3 +11,4 @@ this is just a simple test to check everything from colab code , to github repos
 
 the language used is python
 to run , allow jupiter and python extentions to be installed
+run on a python kernel
