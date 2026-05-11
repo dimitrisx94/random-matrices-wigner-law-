@@ -7,4 +7,4 @@ the eigenvalues of the matrices follow the wigner semicircle law
 i used code from COLAB
 
 this is just a simple test to check everything from colab code , to github repositories , to the plots that are created
-
+the language used is jupiter notebook
